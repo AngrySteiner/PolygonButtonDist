@@ -1,6 +1,6 @@
 # PolygonButton
 
-PolygonButton is a UnrealEngine plugin to provide polygon clickable area buttons for UMG. You can find the plugin in UnrealEngine [Marketplace](http://unrealengine.com/marketplace/en-US/product/polygon-button)
+PolygonButton is a UnrealEngine plugin to provide polygon clickable area buttons for UMG. You can find the plugin in UnrealEngine [Marketplace](http://unrealengine.com/marketplace/en-US/product/polygonbutton)
 
 ## How to use
 
