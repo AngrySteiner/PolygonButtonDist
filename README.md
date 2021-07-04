@@ -44,4 +44,11 @@ Notice that we must make sure the overlay area covers all polygon button clickab
 
 Currently, polygon overlay won't support nested polygon buttons. All polygon buttons must be overlay's direct children.
 
+## Blueprint node
+
+We provide two blueprint functions to Get/Set polygon vertices. Notice that the vertices datas should be normalized (you can refer to datas showed in detail panel).
+
+![Blueprint_01](Resource/Blueprint_01.png)
+
+
 
